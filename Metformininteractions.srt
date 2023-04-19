@@ -1,0 +1,40 @@
+0
+00:00:00,467 --> 00:00:02,402
+Do not drink alcohol
+
+1
+00:00:02,402 --> 00:00:03,871
+while taking this medication
+
+2
+00:00:03,871 --> 00:00:07,641
+if you do drink alcohol while taking this medication
+
+3
+00:00:07,641 --> 00:00:09,259
+increases the risk for
+
+4
+00:00:09,259 --> 00:00:12,613
+dangerously high lactic acid levels
+
+5
+00:00:13,213 --> 00:00:15,916
+if you experience
+
+6
+00:00:15,916 --> 00:00:19,586
+muscle pain or cramps
+
+7
+00:00:19,720 --> 00:00:25,859
+stomach pain, fatigue or general discomfort
+
+8
+00:00:25,859 --> 00:00:28,362
+and trouble breathing
+
+9
+00:00:28,562 --> 00:00:31,064
+call emergency services right away
+

@@ -1,0 +1,32 @@
+0
+00:00:03,000 --> 00:00:04,000
+Diarrhea
+
+1
+00:00:04,867 --> 00:00:05,867
+Gas
+
+2
+00:00:06,567 --> 00:00:08,300
+Nausea
+
+3
+00:00:09,167 --> 00:00:11,467
+upset stomach
+
+4
+00:00:12,267 --> 00:00:14,733
+If you have these symptoms
+
+5
+00:00:14,767 --> 00:00:18,367
+they will go away within few day
+
+6
+00:00:19,267 --> 00:00:21,567
+and do not require medical attention
+
+7
+00:00:21,567 --> 00:00:26,867
+ (If they are continue or are bothersome, report to your care team)
+

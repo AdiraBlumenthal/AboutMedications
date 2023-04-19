@@ -1,0 +1,40 @@
+0
+00:00:00,533 --> 00:00:02,267
+Three type of symptoms
+
+1
+00:00:02,467 --> 00:00:04,133
+Diarrhea
+
+2
+00:00:04,133 --> 00:00:05,417
+Nausea
+
+3
+00:00:05,417 --> 00:00:07,900
+Trouble sleeping
+
+4
+00:00:07,900 --> 00:00:10,383
+Upset stomach
+
+5
+00:00:10,617 --> 00:00:13,100
+If you have these symptoms
+
+6
+00:00:13,100 --> 00:00:16,350
+they will go away within few days
+
+7
+00:00:16,350 --> 00:00:18,450
+and do not require medical attention
+
+8
+00:00:18,450 --> 00:00:20,617
+If they are continue or are bothersome
+
+9
+00:00:20,617 --> 00:00:23,883
+report to your care team
+

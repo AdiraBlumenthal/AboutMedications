@@ -1,0 +1,112 @@
+0
+00:00:00,867 --> 00:00:05,317
+Interactions have three different types
+
+1
+00:00:05,867 --> 00:00:09,067
+Critical
+
+2
+00:00:09,200 --> 00:00:11,450
+Serious
+
+3
+00:00:11,850 --> 00:00:14,100
+Moderate
+
+4
+00:00:15,050 --> 00:00:16,150
+Critical
+
+5
+00:00:16,650 --> 00:00:18,767
+Do not take this combination together
+
+6
+00:00:18,767 --> 00:00:22,333
+Contact your doctor, pharmacist or care team
+
+7
+00:00:22,333 --> 00:00:24,000
+to discuss this combination
+
+8
+00:00:24,000 --> 00:00:27,300
+Severe or life-threatening side effects may occur
+
+9
+00:00:28,300 --> 00:00:30,467
+In rare cases, they may be taken together
+
+10
+00:00:30,467 --> 00:00:32,633
+with specific approval from your care team
+
+11
+00:00:35,300 --> 00:00:35,883
+Serious
+
+12
+00:00:35,933 --> 00:00:39,467
+Discuss this combination with your care team
+
+13
+00:00:40,950 --> 00:00:44,367
+Taking them together may cause significent side effects
+
+14
+00:00:44,367 --> 00:00:46,600
+or cause medications to not work as well
+
+15
+00:00:47,000 --> 00:00:48,467
+your care team may recommend 
+
+16
+00:00:48,467 --> 00:00:51,267
+changes to your treatment plan
+
+17
+00:00:52,667 --> 00:00:54,933
+Ask your care team what to watch
+
+18
+00:00:54,933 --> 00:00:57,050
+for when taking this combination
+
+19
+00:00:58,617 --> 00:01:01,983
+Moderate
+
+20
+00:01:02,817 --> 00:01:05,567
+In certain cases
+
+21
+00:01:05,567 --> 00:01:06,800
+this combination may be taken together
+
+22
+00:01:06,800 --> 00:01:08,200
+When taken together
+
+23
+00:01:08,200 --> 00:01:09,933
+side effects may occur
+
+24
+00:01:10,733 --> 00:01:12,467
+medications may not work as well
+
+25
+00:01:12,567 --> 00:01:15,467
+Your care team may recommend
+
+26
+00:01:15,467 --> 00:01:18,367
+changes to your treament plan
+
+27
+00:01:18,800 --> 00:01:22,717
+Ask your care team what to watch for when taking this combination
+

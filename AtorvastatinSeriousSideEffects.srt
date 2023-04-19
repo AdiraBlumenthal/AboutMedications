@@ -1,0 +1,84 @@
+0
+00:00:04,067 --> 00:00:05,850
+Allergic reactions
+
+1
+00:00:08,033 --> 00:00:13,250
+skin rash, itching or hives
+
+2
+00:00:13,800 --> 00:00:15,517
+swelling of the face,
+
+3
+00:00:15,517 --> 00:00:21,133
+lips, tongue, or throat swollen
+
+4
+00:00:21,500 --> 00:00:24,167
+high blood sugar (hyperglycemia)
+
+5
+00:00:24,167 --> 00:00:27,067
+increased thirst or amount of urine
+
+6
+00:00:27,700 --> 00:00:32,500
+unusual weakness, fatigue, blurry vision
+
+7
+00:00:33,733 --> 00:00:36,733
+Liver injury
+
+8
+00:00:36,733 --> 00:00:39,033
+right upper belly pain
+
+9
+00:00:39,033 --> 00:00:40,750
+loss of appetite
+
+10
+00:00:41,017 --> 00:00:42,650
+nausea
+
+11
+00:00:43,150 --> 00:00:50,350
+light-colored stool, dark yellow or brown urine
+
+12
+00:00:50,667 --> 00:00:53,033
+yellowing skin or eyes
+
+13
+00:00:53,033 --> 00:00:55,867
+usual weakness, fatigue
+
+14
+00:00:57,883 --> 00:01:00,217
+muscle injury
+
+15
+00:01:00,217 --> 00:01:06,300
+unusual weakness, fatigue, muscle pain
+
+16
+00:01:06,800 --> 00:01:11,533
+dark yellow or brown urine
+
+17
+00:01:11,533 --> 00:01:14,117
+decreased in amount of urine
+
+18
+00:01:15,000 --> 00:01:19,450
+redness, blistering, peeling
+
+19
+00:01:19,467 --> 00:01:22,133
+loosening of the skin, including inside of the mouth
+
+20
+00:01:22,450 --> 00:01:25,200
+Contact your health care provider immediately
+

@@ -1,0 +1,32 @@
+0
+00:00:01,200 --> 00:00:03,400
+Metformin
+
+1
+00:00:03,400 --> 00:00:06,267
+Hydrochloride
+
+2
+00:00:06,267 --> 00:00:07,600
+(tablet)
+
+3
+00:00:09,100 --> 00:00:09,733
+METFORMIN
+
+4
+00:00:09,733 --> 00:00:12,367
+treats type 2 diabetes
+
+5
+00:00:15,733 --> 00:00:18,367
+It controls blood sugar (glucose)
+
+6
+00:00:18,700 --> 00:00:19,967
+and helps your
+
+7
+00:00:19,967 --> 00:00:24,600
+body use insulin effectively
+
